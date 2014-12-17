@@ -6,7 +6,7 @@ Get one from [Farnell](http://uk.farnell.com/enocean/usb-300/usb-gateway-for-rad
 
 You need an EnOcean push button:
 
-![Eltako push button](http://www.elektroland24.de/out/pictures/master/product/1/image_FMH4-RW_1.png =250x)
+![Eltako push button](http://www.elektroland24.de/out/pictures/master/product/1/image_FMH4-RW_1.png)
 
 Get one from [Farnell](http://uk.farnell.com/enocean/ptm-210/module-switch-radio-tx-868mhz/dp/2134137) or Houm.io :)
 
