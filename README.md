@@ -13,3 +13,15 @@ Get one from [Farnell](http://uk.farnell.com/enocean/ptm-210/module-switch-radio
     npm install
     ENOCEAN_DEV=/dev/cu.usbserial-FTXMJJM6 nodemon index.coffee
     [Click click]
+    { enoceanAddress: '008baffe', event: 'keydown', key: '1' }
+    { enoceanAddress: '008baffe', event: 'keyup', key: undefined }
+    { enoceanAddress: '008baffe', event: 'keydown', key: '2' }
+    { enoceanAddress: '008baffe', event: 'keyup', key: undefined }
+    { enoceanAddress: '008baffe', event: 'keydown', key: '3' }
+    { enoceanAddress: '008baffe', event: 'keyup', key: undefined }
+    { enoceanAddress: '008baffe', event: 'keydown', key: '4' }
+    { enoceanAddress: '008baffe', event: 'keyup', key: undefined }
+    { enoceanAddress: '008baffe', event: 'keydown', key: '12' }
+    { enoceanAddress: '008baffe', event: 'keyup', key: undefined }
+    { enoceanAddress: '008baffe', event: 'keydown', key: '34' }
+    { enoceanAddress: '008baffe', event: 'keyup', key: undefined }
