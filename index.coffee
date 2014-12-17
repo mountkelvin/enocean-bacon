@@ -21,6 +21,6 @@ buttonEvents = enoceanBuffers
   .map Buffer.concat
   .filter enocean.bufferHasValidLength
   .filter enocean.bufferCanBeInterpretedAsButtonEvent
-  .map (x) -> enocean.parseBufferAsButtonEvent(x)
+  .map enocean.parseBufferAsButtonEvent
 
 buttonEvents.log()
