@@ -1,0 +1,23 @@
+{
+  "name": "enocean-bacon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/houmio/enocean-bacon.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/houmio/enocean-bacon/issues"
+  },
+  "homepage": "https://github.com/houmio/enocean-bacon",
+  "dependencies": {
+    "baconjs": "^0.7.41",
+    "serialport": "^1.4.9"
+  }
+}
