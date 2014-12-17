@@ -2,7 +2,7 @@ You need an EnOcean USB dongle:
 
 ![EnOcean USB dongle](http://www.ehomeportal.de/shop/prodpic/BSC-EnOcean-USB-Stick-Smart-Connect-fuer-HomeMatic-CCU1-2-und-IP-Symcon-PM-0045_b_0.JPG)
 
-Get one from [Farnell](http://uk.farnell.com/enocean/usb-300/usb-gateway-for-radio-868mhz/dp/2342011)
+Get one from [Farnell](http://uk.farnell.com/enocean/usb-300/usb-gateway-for-radio-868mhz/dp/2342011).
 
 You need an EnOcean push button:
 
