@@ -8,7 +8,7 @@ You need an EnOcean push button:
 
 ![Enocean push button](enocean-push-button.png)
 
-Get one from [Farnell](http://uk.farnell.com/enocean/ptm-210/module-switch-radio-tx-868mhz/dp/2134137) or Houm.io :)
+Get one from [Farnell](http://uk.farnell.com/enocean/ptm-210/module-switch-radio-tx-868mhz/dp/2134137) or [Houm.io](http://houm.io) :)
 
     npm install
     ENOCEAN_DEV=/dev/cu.usbserial-FTXMJJM6 nodemon index.coffee
